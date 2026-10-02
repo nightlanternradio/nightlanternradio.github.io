@@ -1,0 +1,5 @@
+# The Night Lantern
+
+This is the website for The Night Lantern, a fictional late-night call-in radio drama on YouTube whose scripts and voices are AI-generated. It is a plain static site (HTML, CSS and vanilla JavaScript, no build step) served by GitHub Pages from the repo root: `index.html` is the home page, `nights.html` is the log of every night, and `404.html` catches bad links. All URLs are relative, so it works at a project URL or opened straight from disk. Air times are stored in `js/episodes.js` and the page works out in the browser which nights have aired, so a night switches from upcoming to watchable at its air time without a redeploy.
+
+To add a new night, append an object to the `window.EPISODES` array in `js/episodes.js`, keeping the same fields (`number`, `season`, `night`, `series_title`, `youtube_title`, `premise`, `video_id`, `airs` as an ISO time with its Pacific offset, `thumb`, `finale`, `premiere`), and drop its 640×360 thumbnail into `assets/ep/` as `eNN.jpg`. Keep the array strict JSON (double quotes, no trailing commas), then run `python tests/check.py`.
