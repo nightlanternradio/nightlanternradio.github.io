@@ -137,7 +137,7 @@ window.EPISODES = [
     "series_title": "Who Knows Your Hours",
     "youtube_title": "A Dispatcher Hears a Parked Truck Call In Its Mile Markers | Paranormal Radio Drama Ep. 11",
     "premise": "Season 2 opens. A night dispatcher hears a parked, locked truck call in its mile markers, one by one, from her own yard.",
-    "video_id": "0V8hS4QpeYg",
+    "video_id": "xWSfMw49_O0",
     "airs": "2026-10-23T19:00:00-07:00",
     "thumb": "assets/ep/e11.jpg",
     "finale": false,
