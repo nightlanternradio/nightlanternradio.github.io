@@ -142,5 +142,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e11.jpg",
     "finale": false,
     "premiere": true
+  },
+  {
+    "number": 12,
+    "season": 2,
+    "night": 2,
+    "series_title": "The Saucepan and the Last Window",
+    "youtube_title": "The Same Car Leaves His Empty Garage Three Times",
+    "premise": "A night parking-garage attendant watches the same grey sedan leave his locked, empty garage three times in one night.",
+    "video_id": "zHTuxLqslLA",
+    "airs": "2026-10-27T19:00:00-07:00",
+    "thumb": "assets/ep/e12.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
