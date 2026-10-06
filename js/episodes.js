@@ -155,5 +155,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e12.jpg",
     "finale": false,
     "premiere": false
+  },
+  {
+    "number": 13,
+    "season": 2,
+    "night": 3,
+    "series_title": "The Pan With the Lid",
+    "youtube_title": "His Neighbour Answers a Question He Never Asked",
+    "premise": "A retired lineman's neighbour brings back his pan, then comes back with the same pan and the same words, and answers a question he never asked.",
+    "video_id": "_6w0rAPsal0",
+    "airs": "2026-10-30T19:00:00-07:00",
+    "thumb": "assets/ep/e13.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
