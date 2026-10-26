@@ -259,5 +259,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e20.jpg",
     "finale": true,
     "premiere": false
+  },
+  {
+    "number": 21,
+    "season": 3,
+    "night": 1,
+    "series_title": "Her Absent Deckhand Says Everyone Is Aboard",
+    "youtube_title": "Her Absent Deckhand Says Everyone Is Aboard",
+    "premise": "A ferry mate loads the first boat alone, two cars and no walk-ons. Then her deckhand, home sick, comes on the radio: everyone's aboard.",
+    "video_id": "qhy40Tba8Wk",
+    "airs": "2026-11-27T19:00:00-08:00",
+    "thumb": "assets/ep/e21.jpg",
+    "finale": false,
+    "premiere": true
   }
 ];
