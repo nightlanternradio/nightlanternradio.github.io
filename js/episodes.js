@@ -272,5 +272,31 @@ window.EPISODES = [
     "thumb": "assets/ep/e21.jpg",
     "finale": false,
     "premiere": true
+  },
+  {
+    "number": 22,
+    "season": 3,
+    "night": 2,
+    "series_title": "His Door Welcomes a Friend Who Hasn't Arrived",
+    "youtube_title": "His Door Welcomes a Friend Who Hasn't Arrived",
+    "premise": "A retired lineman hears a voice at his kitchen door welcome his trucker friend by name. He opens it on frost with not one footprint.",
+    "video_id": "YapTLxwIWTQ",
+    "airs": "2026-12-01T19:00:00-08:00",
+    "thumb": "assets/ep/e22.jpg",
+    "finale": false,
+    "premiere": false
+  },
+  {
+    "number": 23,
+    "season": 3,
+    "night": 3,
+    "series_title": "The Empty House's Porch Light Answers Her Name",
+    "youtube_title": "The Empty House's Porch Light Answers Her Name",
+    "premise": "A woman shuts off the power at her father's empty house. Two nights later she says her name at the door, and the porch light blinks three times.",
+    "video_id": "B3DpP9nKuAc",
+    "airs": "2026-12-04T19:00:00-08:00",
+    "thumb": "assets/ep/e23.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
