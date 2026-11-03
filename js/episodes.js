@@ -298,5 +298,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e23.jpg",
     "finale": false,
     "premiere": false
+  },
+  {
+    "number": 24,
+    "season": 3,
+    "night": 4,
+    "series_title": "Her Greeting Comes From the Empty Toll Booth",
+    "youtube_title": "Her Greeting Comes From the Empty Toll Booth",
+    "premise": "A toll collector works the only open lane. Before she can greet a driver, her own old greeting comes from the padlocked booth beside her.",
+    "video_id": "nVwStgtx2lk",
+    "airs": "2026-12-08T19:00:00-08:00",
+    "thumb": "assets/ep/e24.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
