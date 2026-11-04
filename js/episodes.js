@@ -337,5 +337,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e26.jpg",
     "finale": false,
     "premiere": false
+  },
+  {
+    "number": 27,
+    "season": 3,
+    "night": 7,
+    "series_title": "Her Answering Machine Continues an Ended Call",
+    "youtube_title": "Her Answering Machine Continues an Ended Call",
+    "premise": "A night clerk's friend is already in the other chair when the motel's answering machine clicks on, with no ring, and speaks in the host's voice.",
+    "video_id": "vkLUDOfi-h8",
+    "airs": "2026-12-18T19:00:00-08:00",
+    "thumb": "assets/ep/e27.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
