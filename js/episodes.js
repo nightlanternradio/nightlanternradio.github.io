@@ -324,5 +324,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e25.jpg",
     "finale": false,
     "premiere": false
+  },
+  {
+    "number": 26,
+    "season": 3,
+    "night": 6,
+    "series_title": "The Unplugged Motel Phone Repeats Her Words",
+    "youtube_title": "The Unplugged Motel Phone Repeats Her Words",
+    "premise": "A motel night clerk says one sentence on the air. The unplugged phone at the end of her counter says it back in her own voice.",
+    "video_id": "6558-tL6-GI",
+    "airs": "2026-12-15T19:00:00-08:00",
+    "thumb": "assets/ep/e26.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
