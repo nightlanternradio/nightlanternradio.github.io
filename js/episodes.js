@@ -311,5 +311,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e24.jpg",
     "finale": false,
     "premiere": false
+  },
+  {
+    "number": 25,
+    "season": 3,
+    "night": 5,
+    "series_title": "Ray Promises to Stay in Four Different Places",
+    "youtube_title": "Ray Promises to Stay in Four Different Places",
+    "premise": "Four callers, four places, one night: each heard a voice like Ray's promise to stay right there with them.",
+    "video_id": "nf3KHQqvD_g",
+    "airs": "2026-12-11T19:00:00-08:00",
+    "thumb": "assets/ep/e25.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
