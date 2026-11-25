@@ -363,5 +363,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e28.jpg",
     "finale": false,
     "premiere": false
+  },
+  {
+    "number": 29,
+    "season": 3,
+    "night": 9,
+    "series_title": "She Gets the All-Clear Before the Engineer Arrives",
+    "youtube_title": "She Gets the All-Clear Before the Engineer Arrives",
+    "premise": "A remote operator rings the engineer about a failing transmitter. The return line says it's taken care of, and nobody is at the site.",
+    "video_id": "aqzyA_rzNQM",
+    "airs": "2026-12-25T19:00:00-08:00",
+    "thumb": "assets/ep/e29.jpg",
+    "finale": false,
+    "premiere": false
   }
 ];
