@@ -358,7 +358,7 @@ window.EPISODES = [
     "series_title": "The Repair Is Signed Off Before He Gets the Keys",
     "youtube_title": "The Repair Is Signed Off Before He Gets the Keys",
     "premise": "A water plant night attendant watches a contractor wait at the locked gate for her keys. The pump-house intercom signs off his repair anyway.",
-    "video_id": "YpZuVQX700A",
+    "video_id": "Lo9wE0EgdhQ",
     "airs": "2026-12-22T19:00:00-08:00",
     "thumb": "assets/ep/e28.jpg",
     "finale": false,
