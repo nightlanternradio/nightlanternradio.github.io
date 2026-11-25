@@ -376,5 +376,18 @@ window.EPISODES = [
     "thumb": "assets/ep/e29.jpg",
     "finale": false,
     "premiere": false
+  },
+  {
+    "number": 30,
+    "season": 3,
+    "night": 10,
+    "series_title": "Her Bus Is Cancelled as It Pulls Into the Depot",
+    "youtube_title": "Her Bus Is Cancelled as It Pulls Into the Depot",
+    "premise": "A hospital worker waits for her first county bus. The depot speaker cancels it in the driver's own voice as he opens the door.",
+    "video_id": "og-0CgX917c",
+    "airs": "2026-12-29T19:00:00-08:00",
+    "thumb": "assets/ep/e30.jpg",
+    "finale": true,
+    "premiere": false
   }
 ];
